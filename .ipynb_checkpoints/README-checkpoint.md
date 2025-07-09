@@ -217,47 +217,6 @@ for n in [1, 5 ,10]:
 
 ---
 
-## 📅 Review Schedule
-<!-- Automatic review scheduling -->
-- [ ] **Day 1 Review:** 2025-07-05 - [[📅 2025-07-05 Quick Review - 3. k-NN Regression]]
-- [ ] **Day 3 Review:** 2025-07-07 - [[📅 2025-07-07 Quick Review - 3. k-NN Regression]]
-- [ ] **Week 1 Review:** 2025-07-11 - [[📅 2025-07-11 Study Review - 3. k-NN Regression]]
-- [ ] **Week 2 Review:** 2025-07-18 - [[📅 2025-07-18 Study Review - 3. k-NN Regression]]
 
----
 
-## 🏷️ Metadata
-**Tags:** #study-note #machine-learning #3-k-nn-regression #medium
-**Review Status:** #needs-review
-**Mastery Level:** #beginner #intermediate #advanced
-**Related Notes:** 
-- [[]]
-- [[]]
-
----
-
-## 🔄 Auto-Generated Links
-<!-- These will be automatically populated -->
-**Review Sessions:** 
-```dataview
-TABLE file.link as "Review", created as "Date", confidence as "Rating"
-FROM #study-review
-WHERE contains(file.outlinks, [[3. k-NN Regression]])
-SORT created DESC
-```
-
-**Quick Reviews:**
-```dataview
-TABLE file.link as "Quick Review", created as "Date", completed as "Completed"
-FROM #quick-review
-WHERE contains(file.outlinks, [[3. k-NN Regression]])
-SORT created DESC
-```
-
-**Progress Updates:**
-```dataview
-TABLE file.link as "Progress Update", created as "Date", type as "Type"
-FROM #progress-update
-WHERE contains(file.outlinks, [[3. k-NN Regression]])
-SORT created DESC
 ``` 
